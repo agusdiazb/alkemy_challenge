@@ -4,7 +4,7 @@ El objetivo es la creación de un proyecto que consuma datos desde 3 fuentes dis
 
 
 
-## Para ejecutar el proyecto en un entorno virtual seguir los pasos siguientes
+## Pasos para la ejecución
 **Clonar repositorio**
 ```
 git clone https://github.com/agusdiazb/data_analytics_challenge

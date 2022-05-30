@@ -5,6 +5,7 @@ El objetivo es la creación de un proyecto que consuma datos desde 3 fuentes dis
 
 
 ## Pasos para la ejecución
+
 **Clonar repositorio**
 ```
 git clone https://github.com/agusdiazb/data_analytics_challenge

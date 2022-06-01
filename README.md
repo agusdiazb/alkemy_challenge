@@ -11,6 +11,9 @@ El challenge completo se puede encontrar adjunto en el repositorio o aquí: http
 ```
 git clone https://github.com/agusdiazb/data_analytics_challenge
 ```
+**Clonar repositorio**
+```
+
 **Instalar los paquetes necesarios**
 ```
 pip install -r requirements.txt

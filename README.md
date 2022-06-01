@@ -18,7 +18,7 @@ git clone https://github.com/agusdiazb/data_analytics_challenge
 ```
 pip install -r requirements.txt
 ```
-**Ejecutar .py**
+**Ejecutar main.py**
 ```
 python app.py
 ```

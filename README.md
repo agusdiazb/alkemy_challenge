@@ -11,15 +11,19 @@ El challenge completo se puede encontrar adjunto en el repositorio o aquí: http
 ```
 git clone https://github.com/agusdiazb/data_analytics_challenge
 ```
-**Clonar repositorio**
+**Crear ambiente virtual**
 ```
-
+python -m venv venv
+```
+```
+source venv/bin/activate
+```
 **Instalar los paquetes necesarios**
 ```
 pip install -r requirements.txt
 ```
 **Ejecutar main.py**
 ```
-python app.py
+python main.py
 ```
 

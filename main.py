@@ -13,8 +13,8 @@ tabla_unica.to_sql('tabla_unica', con = engine, if_exists = 'replace')
 
 logging.info('Upload tabla 2 a PostgreSQL')
 
-tabla_unica.to_sql('tabla2', con = engine, if_exists = 'replace')
+tabla2.to_sql('tabla2', con = engine, if_exists = 'replace')
 
 logging.info('Upload tabla 3: tabla_cine a PostgreSQL')
 
-tabla_unica.to_sql('tabla_cine', con = engine, if_exists = 'replace')
+tabla_cine.to_sql('tabla_cine', con = engine, if_exists = 'replace')

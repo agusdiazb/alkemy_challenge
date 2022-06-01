@@ -1,6 +1,6 @@
 import logging
 from sqlalchemy import create_engine
-from procesamiento import tabla_unica, tabla2, tabla_cine
+from datos import tabla_unica, tabla2, tabla_cine
 
 
 logging.info('Creacion de base de datos')
